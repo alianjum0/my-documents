@@ -37,30 +37,4 @@ Welcome to my personal document repository. This site organizes notes, plans, an
 
 ## About This Site
 
-This is a personal collection of markdown documents, organized by category. The site is built with Jekyll using the Minima theme and hosted on GitHub Pages.
-
-<style>
-.category-section {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    margin: 30px 0;
-}
-.category-card {
-    border: 1px solid #e8e8e8;
-    border-radius: 5px;
-    padding: 15px;
-    background-color: #f9f9f9;
-    transition: all 0.3s ease;
-}
-.category-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-}
-.category-link {
-    display: inline-block;
-    margin-top: 10px;
-    font-weight: bold;
-    text-decoration: none;
-}
-</style> 
+This is a personal collection of markdown documents, organized by category. The site is built with Jekyll using the Minima theme and hosted on GitHub Pages. 

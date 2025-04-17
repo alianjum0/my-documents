@@ -19,7 +19,7 @@ Switzerland’s landscapes and family-oriented infrastructure make it an ideal s
 - **Time Required**: ~2 hours (25-min gondola each way, 15-min walk, 30 mins for views/photos).
 - **Toddler-Friendly**: Safe railings, stroller-friendly in parts, exciting gondola ride.
 - **Location**: Grindelwald, ~3.5 hours drive from Turin.
-- **Image**: ![Grindelwald First Cliff Walk](./images/grindelwald_first.jpg)
+- **Image**: ![Grindelwald First Cliff Walk](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grindelwald_First_Cliff_Walk.jpg/800px-Grindelwald_First_Cliff_Walk.jpg)
 - **Website**: [Jungfrau Region](https://www.jungfrau.ch/en-gb/grindelwaldfirst/)
 - **Tips**: Use a carrier if skipping the stroller. Visit mornings for fewer crowds.
 
@@ -29,7 +29,7 @@ Switzerland’s landscapes and family-oriented infrastructure make it an ideal s
 - **Time Required**: ~2.5 hours (10-min cable car each way, 1-hour hike each way with toddler, 30 mins at bridge).
 - **Toddler-Friendly**: Secure bridge, carrier recommended for hike, fun cable car.
 - **Location**: Near Gadmen, ~1 hour from Grindelwald.
-- **Image**: ![Trift Suspension Bridge](./images/trift_bridge.jpg)
+- **Image**: ![Trift Suspension Bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Trift_Bridge_02.JPG/800px-Trift_Bridge_02.JPG)
 - **Website**: [Switzerland Tourism](https://www.myswitzerland.com/en-us/experiences/route/trift-bridge-a-spectacular-pedestrian-bridge/)
 - **Tips**: Check weather, as the bridge may close in high winds. Pack toddler snacks.
 
@@ -39,7 +39,7 @@ Switzerland’s landscapes and family-oriented infrastructure make it an ideal s
 - **Time Required**: ~1.5 hours (12-min funicular each way, 1 hour at lake).
 - **Toddler-Friendly**: Safe ride, stroller-friendly lake paths, visually engaging.
 - **Location**: Near Innertkirchen, ~30 mins from Gadmen.
-- **Image**: ![Gelmerbahn Funicular](./images/gelmerbahn.jpg)
+- **Image**: ![Gelmerbahn Funicular](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gelmerbahn_Di_Renzo.jpg/800px-Gelmerbahn_Di_Renzo.jpg)
 - **Website**: [Grimselwelt](https://www.grimselwelt.ch/en/railways/gelmerbahn/)
 - **Tips**: Book tickets in advance to avoid queues. Bring a light jacket.
 
@@ -52,18 +52,18 @@ Austria’s family-friendly attractions offer a mix of nature and culture.
 - **Time Required**: ~2.5 hours (exploring animals, playgrounds, breaks).
 - **Toddler-Friendly**: Stroller-friendly, rest areas, engaging animal encounters.
 - **Location**: Salzburg, ~4.5 hours from Innertkirchen.
-- **Image**: ![Salzburg Zoo](./images/salzburg_zoo.jpg)
+- **Image**: ![Salzburg Zoo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zoo_Salzburg_2014_Eingang.jpg/800px-Zoo_Salzburg_2014_Eingang.jpg)
 - **Website**: [Zoo Salzburg](https://www.salzburg-zoo.at/en/)
 - **Tips**: Pair with a walk in Hellbrunn Park. Arrive early for feeding sessions.
 
 #### 5. Gentle Hike to Preintalerhütte
 - **Description**: A short 1-2 km hike to a family-friendly mountain hut in the Dachstein Alps, with scenic views and cozy stops.
-- **Price (2025)**: Free (public trail). Source: [Dachstein Tourism](https://www.dachstein-salzkammergut.com/en/).
+- **Price (2025)**: Free (public trail). Source: [Dachstein Tourism](https://www.dachstein-salzkammergut.at/en/).
 - **Time Required**: ~2.5 hours (1-hour hike each way with toddler, 30 mins at hut).
 - **Toddler-Friendly**: Carrier needed, kid-friendly hut with snacks.
 - **Location**: Near Schladming, ~2 hours from Salzburg.
-- **Image**: ![Preintalerhütte](./images/preintalerhuette.jpg)
-- **Website**: [Dachstein Tourism](https://www.dachstein-salzkammergut.com/en/summer/hiking/hiking-tours/preintalerhuette.html)
+- **Image**: ![Dachstein Alps](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dachstein_Alps.jpg/800px-Dachstein_Alps.jpg) (representative of the area).
+- **Website**: [Dachstein Tourism](https://www.dachstein-salzkammergut.at/en/summer/hiking/hiking-tours/preintalerhuette.html)
 - **Tips**: Choose a hut with a playground. Start early to avoid heat.
 
 ### Slovenia: Hidden Gems and Outdoor Thrills
@@ -71,12 +71,12 @@ Slovenia’s compact size and diverse landscapes offer unique adventures.
 
 #### 6. Soča River Family Rafting
 - **Description**: A 1.5-hour family rafting tour on the calm Soča River, with guides and stunning valley views, safe for non-swimmers.
-- **Price (2025)**: €60 per adult, €44 for child under 15 (toddler rate), totaling €164 (~€164) for family. Source: [Rafting Slovenia](https://www.raftingslovenia.com/adventures/rafting-tours/family-rafting/).
+- **Price (2025)**: €60 per adult, €44 for child under 15 (toddler rate), totaling €164 (~€164) for family. Source: [Rafting Slovenia](https://www.raftingslovenia.si/en/rafting-tours/family-rafting).
 - **Time Required**: ~3 hours (1.5 hours rafting, 1.5 hours prep/return).
 - **Toddler-Friendly**: Life jackets, secure seating, short duration.
 - **Location**: Bovec, ~3 hours from Schladming.
-- **Image**: ![Soča Rafting](./images/soca_rafting.jpg)
-- **Website**: [Rafting Slovenia](https://www.raftingslovenia.com/adventures/rafting-tours/family-rafting/)
+- **Image**: ![Soča River](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/So%C4%8Da_River_Slovenia.jpg/800px-So%C4%8Da_River_Slovenia.jpg) (representative of the river).
+- **Website**: [Rafting Slovenia](https://www.raftingslovenia.si/en/rafting-tours/family-rafting)
 - **Tips**: Book with a family-focused operator. Bring a change of clothes.
 
 #### 7. Ljubljana City Quest
@@ -85,8 +85,8 @@ Slovenia’s compact size and diverse landscapes offer unique adventures.
 - **Time Required**: ~1.5 hours (flexible pace).
 - **Toddler-Friendly**: Stroller-friendly, engaging visuals, short duration.
 - **Location**: Ljubljana, ~2 hours from Bovec.
-- **Image**: ![Ljubljana Quest](./images/ljubljana_quest.jpg)
-- **Website**: [Visit Ljubljana](https://www.visitljubljana.com/en/visitors/things-to-do/city-quest/)
+- **Image**: ![Ljubljana Dragon Bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ljubljana_Dragon_Bridge.jpg/800px-Ljubljana_Dragon_Bridge.jpg) (key landmark).
+- **Website**: [Visit Ljubljana](https://www.visitljubljana.com/en/visitors/explore/things-to-do/sightseeing/city-quest-ljubljana/)
 - **Tips**: Stop at a riverside café for breaks. Book via tourism agencies.
 
 ### Croatia: Coastal and Natural Wonders
@@ -98,7 +98,7 @@ Croatia’s parks and beaches offer a perfect trip finale.
 - **Time Required**: ~4 hours (shorter toddler-friendly route).
 - **Toddler-Friendly**: Stroller-accessible boardwalks, exciting ferry.
 - **Location**: Plitvice, ~3 hours from Ljubljana.
-- **Image**: ![Plitvice Lakes](./images/plitvice_lakes.jpg)
+- **Image**: ![Plitvice Lakes](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Plitvice_Lakes_National_Park.jpg/800px-Plitvice_Lakes_National_Park.jpg)
 - **Website**: [Plitvice Lakes](https://www.np-plitvicka-jezera.hr/en/)
 - **Tips**: Arrive early to avoid crowds. Pack a picnic.
 
@@ -108,7 +108,7 @@ Croatia’s parks and beaches offer a perfect trip finale.
 - **Time Required**: ~2.5 hours (play, relax).
 - **Toddler-Friendly**: Shade, gentle waves, nearby cafés.
 - **Location**: Brela, ~2.5 hours from Plitvice.
-- **Image**: ![Punta Rata](./images/punta_rata.jpg)
+- **Image**: ![Punta Rata Beach](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Punta_Rata_Beach_Brela.jpg/800px-Punta_Rata_Beach_Brela.jpg)
 - **Website**: [Brela Tourism](https://www.brela.hr/en/beaches/punta-rata-beach/)
 - **Tips**: Bring water shoes. Visit late afternoon for cooler temperatures.
 
@@ -182,4 +182,4 @@ This itinerary balances ~25.5 hours of driving (one-way) and ~24 hours of activi
 - **Reservations**: Book funicular, rafting, Plitvice tickets in advance.  
 
 ## Why This Plan Works
-The itinerary offers diverse, memorable experiences (cliff walks, rafting, lakes) with short activities (1.5-4 hours) and manageable drives for a 2-year-old. Free activities (hike, beach) and toddler discounts keep costs reasonable, while downtime ensures comfort.
+The itinerary blends high-adrenaline (rafting, funicular) and relaxed (beach, zoo) activities, with short durations (1.5-4 hours) and manageable drives for a 2-year-old. Free activities and toddler discounts keep costs reasonable, while downtime ensures comfort.

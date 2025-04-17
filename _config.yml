@@ -1,2 +1,35 @@
 markdown: kramdown
 theme: minima
+
+title: My Documents
+description: Personal Markdown document repository
+baseurl: ""
+url: ""
+
+# Minima theme settings
+minima:
+  date_format: "%b %-d, %Y"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Files/paths to exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git/
+  - .github/
+
+# Default front matter for collection types
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
