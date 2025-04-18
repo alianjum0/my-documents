@@ -9,7 +9,10 @@ This section contains shopping lists and product research.
 
 ## Lists
 
-{% assign lists = site.pages | where_exp: "item", "item.path contains 'shopping/' and item.path != 'shopping/index.md'" | sort: "date" | reverse %}
+{% assign shopping_pages = site.pages | where_exp: "item", "item.path contains 'shopping/'" %}
+{% assign filtered_pages = shopping_pages | reject: "path", "shopping/index.md" %}
+{% assign lists = filtered_pages | sort: "date" | reverse %}
+
 
 {% if lists.size > 0 %}
 <ul class="post-list">

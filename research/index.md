@@ -9,7 +9,9 @@ This section contains research notes, findings, and reference materials.
 
 ## Topics
 
-{% assign topics = site.pages | where_exp: "item", "item.path contains 'research/' and item.path != 'research/index.md'" | sort: "date" | reverse %}
+{% assign research_pages = site.pages | where_exp: "item", "item.path contains 'research/'" %}
+{% assign filtered_pages = research_pages | reject: "path", "research/index.md" %}
+{% assign topics = filtered_pages | sort: "date" | reverse %}
 
 {% if topics.size > 0 %}
 <ul class="post-list">

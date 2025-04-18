@@ -9,7 +9,9 @@ This section contains trip itineraries, packing lists, and travel notes.
 
 ## Destinations
 
-{% assign trips = site.pages | where_exp: "item", "item.path contains 'trips/' and item.path != 'trips/index.md'" | sort: "date" | reverse %}
+{% assign trips_pages = site.pages | where_exp: "item", "item.path contains 'trips/'" %}
+{% assign filtered_trips = trips_pages | reject: "path", "trips/index.md" %}
+{% assign trips = filtered_trips | sort: "date" | reverse %}
 
 {% if trips.size > 0 %}
 <ul class="post-list">

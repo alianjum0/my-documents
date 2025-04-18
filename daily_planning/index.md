@@ -9,7 +9,9 @@ This section contains daily planning documents, schedules, and task lists.
 
 ## Latest Plans
 
-{% assign plans = site.pages | where_exp: "item", "item.path contains 'daily_planning/' and item.path != 'daily_planning/index.md'" | sort: "date" | reverse %}
+{% assign daily_planning_pages = site.pages | where_exp: "item", "item.path contains 'daily_planning/'" %}
+{% assign filtered_pages = daily_planning_pages | reject: "path", "daily_planning/index.md" %}
+{% assign plans = filtered_pages | sort: "date" | reverse %}
 
 {% if plans.size > 0 %}
 <ul class="post-list">
