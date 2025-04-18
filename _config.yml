@@ -3,7 +3,7 @@ theme: minima
 
 title: My Documents
 description: Personal Markdown document repository
-baseurl: ""
+baseurl: "/my-documents"
 url: ""
 
 # Minima theme settings
