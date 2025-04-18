@@ -1,3 +1,10 @@
+---
+layout: page
+title: Alps Road Trip V2
+date: 2023-09-15
+description: Revised 10-day journey through the Alps
+---
+
 ### Road Trip Overview
 *   **Route:** Northern Turin (Italy) -> Switzerland -> Austria -> Slovenia -> Croatia (Ending near Zagreb)
 *   **Duration:** 10 Days / 9 Nights
@@ -36,7 +43,7 @@
 *   **Lunch Stop:** Picnic amidst the mountains or stop in Bellinzona, Switzerland, known for its three striking castles. (Est. Cost: €20-€30/adult if dining out).
 *   **Afternoon (e.g., 2:00 PM):** Arrive in Maienfeld, the setting that inspired "Heidi". Check in.
 *   **Activity 1:** Live the Story at Heididorf (Heidi's Village)
-    *   *Description:* Step into the pages of the beloved story! Visit Heidi's house, pet the friendly goats, see the simple schoolhouse, and maybe even mail a postcard from Switzerland's smallest post office located within the village. It’s incredibly charming and interactive for all ages.
+    *   *Description:* Step into the pages of the beloved story! Visit Heidi's house, pet the friendly goats, see the simple schoolhouse, and maybe even mail a postcard from Switzerland's smallest post office located within the village. It's incredibly charming and interactive for all ages.
     *   *Visit Duration:* Approx. 2-3 hours.
     *   *Est. Cost (2025):* Likely CHF 15-20/adult.
     *   *Illustrative Image:* `![Heididorf Maienfeld Goats](https://www.google.com/search?q=Heididorf+Maienfeld+goats&tbm=isch)`
@@ -52,7 +59,7 @@
 *   **Lunch:** Upon arrival in Innsbruck or find a cosy *Gasthaus* en route. (Est. Cost: €15-€25 per adult).
 *   **Afternoon (e.g., 1:00 PM):** Check into your Innsbruck accommodation.
 *   **Activity 1:** Meet Alpine Creatures at Alpenzoo
-    *   *Description:* See native Alpine animals like ibex, chamois, bears, and eagles up close. The zoo is terraced on a mountainside offering great views. It’s engaging for toddlers, and there's a playground too! A carrier might be easier than a stroller on some paths.
+    *   *Description:* See native Alpine animals like ibex, chamois, bears, and eagles up close. The zoo is terraced on a mountainside offering great views. It's engaging for toddlers, and there's a playground too! A carrier might be easier than a stroller on some paths.
     *   *Visit Duration:* Approx. 2.5 - 3 hours.
     *   *Est. Cost (2025):* Likely ~€15-€18/adult.
     *   *Illustrative Image:* `![Alpenzoo Innsbruck Ibex](https://www.google.com/search?q=Alpenzoo+Innsbruck+Ibex&tbm=isch)`
@@ -176,7 +183,7 @@
         *   *Est. Cost:* Free (Parking/umbrella rental extra).
         *   *Illustrative Image:* `![Family Friendly Beach Krk Island](https://www.google.com/search?q=Family+Friendly+Beach+Krk+Island+sandy&tbm=isch)`
     *   **Activity 2:** Explore Krk Town's Charming Streets
-        *   *Description:* Wander the narrow, mostly car-free stone streets of Krk Town's old center. It’s like a maze waiting to be explored. Let your toddler lead the way (supervised!) down little alleys. Enjoy the harbour atmosphere.
+        *   *Description:* Wander the narrow, mostly car-free stone streets of Krk Town's old center. It's like a maze waiting to be explored. Let your toddler lead the way (supervised!) down little alleys. Enjoy the harbour atmosphere.
         *   *Visit Duration:* 1 hour.
 *   **Evening:** Dinner in Krk Town. Try some fresh grilled fish or local pasta (*šurlice*).
 *   **Accommodation:** Apartment or family hotel on Krk Island. Consider one with a pool or playground. (Est. Cost: €100-€180/night).

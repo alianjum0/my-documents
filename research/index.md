@@ -33,4 +33,9 @@ This section contains research notes, findings, and reference materials.
 <p><em>No research topics uploaded yet. Check back soon!</em></p>
 {% endif %}
 
-<p><em>To add your own research, create markdown files in this directory.</em></p> 
+<p><em>To add your own research, create markdown files in this directory.</em></p>
+
+## All Research Topics
+
+- [Research Topic 1](research_topic_1.md)
+- [Research Topic 2](research_topic_2.md) 

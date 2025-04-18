@@ -33,4 +33,8 @@ This section contains shopping lists and product research.
 <p><em>No shopping lists uploaded yet. Check back soon!</em></p>
 {% endif %}
 
-<p><em>To add your own lists, create markdown files in this directory.</em></p> 
+<p><em>To add your own lists, create markdown files in this directory.</em></p>
+
+## All Shopping Lists
+
+- [Groceries](groceries.md) 

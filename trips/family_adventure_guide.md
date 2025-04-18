@@ -1,7 +1,8 @@
 ---
-title: Family Adventure Road Trip from Turin to Switzerland, Austria, Slovenia, and Croatia
-date: April 17, 2025
-description: A 10-day road trip guide for a family of three with a 2-year-old, featuring toddler-friendly adventures.
+layout: page
+title: Family Adventure Guide
+date: 2023-11-05
+description: Comprehensive guide for family adventures with kids
 ---
 
 # Family Adventure Road Trip: Turin to Switzerland, Austria, Slovenia, and Croatia
@@ -11,10 +12,10 @@ This guide outlines a 10-day road trip from northern Turin, Italy, through Switz
 ## Activities by Country
 
 ### Switzerland: Alpine Wonders
-Switzerland’s landscapes and family-oriented infrastructure make it an ideal starting point.
+Switzerland's landscapes and family-oriented infrastructure make it an ideal starting point.
 
 #### 1. Grindelwald First Cliff Walk
-- **Description**: A secure, elevated walkway on the cliffs of Grindelwald First, accessed via gondola, offering panoramic Bernese Alps views. The thrill of “walking in the sky” captivates all ages.
+- **Description**: A secure, elevated walkway on the cliffs of Grindelwald First, accessed via gondola, offering panoramic Bernese Alps views. The thrill of "walking in the sky" captivates all ages.
 - **Price (2025)**: CHF 76 per adult for gondola return (children under 6 free), totaling CHF 152 (~€152) for two adults. Source: [Jungfrau Region](https://www.jungfrau.ch/en-gb/grindelwaldfirst/).
 - **Time Required**: ~2 hours (25-min gondola each way, 15-min walk, 30 mins for views/photos).
 - **Toddler-Friendly**: Safe railings, stroller-friendly in parts, exciting gondola ride.
@@ -34,7 +35,7 @@ Switzerland’s landscapes and family-oriented infrastructure make it an ideal s
 - **Tips**: Check weather, as the bridge may close in high winds. Pack toddler snacks.
 
 #### 3. Gelmerbahn Funicular
-- **Description**: Europe’s steepest funicular to Lake Gelmer, with flat paths for lake exploration and vibrant turquoise views.
+- **Description**: Europe's steepest funicular to Lake Gelmer, with flat paths for lake exploration and vibrant turquoise views.
 - **Price (2025)**: CHF 40 per adult for return (children under 6 free), totaling CHF 80 (~€80) for two adults. Source: [Grimselwelt](https://www.grimselwelt.ch/en/railways/gelmerbahn/).
 - **Time Required**: ~1.5 hours (12-min funicular each way, 1 hour at lake).
 - **Toddler-Friendly**: Safe ride, stroller-friendly lake paths, visually engaging.
@@ -44,7 +45,7 @@ Switzerland’s landscapes and family-oriented infrastructure make it an ideal s
 - **Tips**: Book tickets in advance to avoid queues. Bring a light jacket.
 
 ### Austria: Alpine Charm and Family Fun
-Austria’s family-friendly attractions offer a mix of nature and culture.
+Austria's family-friendly attractions offer a mix of nature and culture.
 
 #### 4. Salzburg Zoo
 - **Description**: A compact zoo with 1,500 animals (flamingos, penguins, farmyard pets), playgrounds, and shaded areas for toddler exploration.
@@ -67,7 +68,7 @@ Austria’s family-friendly attractions offer a mix of nature and culture.
 - **Tips**: Choose a hut with a playground. Start early to avoid heat.
 
 ### Slovenia: Hidden Gems and Outdoor Thrills
-Slovenia’s compact size and diverse landscapes offer unique adventures.
+Slovenia's compact size and diverse landscapes offer unique adventures.
 
 #### 6. Soča River Family Rafting
 - **Description**: A 1.5-hour family rafting tour on the calm Soča River, with guides and stunning valley views, safe for non-swimmers.
@@ -90,7 +91,7 @@ Slovenia’s compact size and diverse landscapes offer unique adventures.
 - **Tips**: Stop at a riverside café for breaks. Book via tourism agencies.
 
 ### Croatia: Coastal and Natural Wonders
-Croatia’s parks and beaches offer a perfect trip finale.
+Croatia's parks and beaches offer a perfect trip finale.
 
 #### 8. Plitvice Lakes National Park
 - **Description**: A UNESCO site with 16 terraced lakes, waterfalls, and a ferry ride, ideal for toddler exploration.

@@ -1,0 +1,10 @@
+.git
+.jekyll-cache
+_site
+vendor/bundle
+.bundle
+Dockerfile
+docker-compose.yml
+.dockerignore
+.DS_Store
+node_modules 

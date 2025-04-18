@@ -1,3 +1,10 @@
+---
+layout: page
+title: Swiss Road Trip
+date: 2023-07-10
+description: Road trip through the Swiss Alps
+---
+
 # My Trip to Paris
 ## Itinerary
 - Day 1: Visit the Eiffel Tower

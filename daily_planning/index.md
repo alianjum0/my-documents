@@ -33,4 +33,9 @@ This section contains daily planning documents, schedules, and task lists.
 <p><em>No plans uploaded yet. Check back soon!</em></p>
 {% endif %}
 
-<p><em>To add your own plans, create markdown files in this directory.</em></p> 
+<p><em>To add your own plans, create markdown files in this directory.</em></p>
+
+## All Daily Plans
+
+- [Plan 1](plan_1.md)
+- [Plan 2](plan_2.md) 

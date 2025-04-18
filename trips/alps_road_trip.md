@@ -1,3 +1,10 @@
+---
+layout: page
+title: Alps Road Trip
+date: 2023-08-12
+description: 10-day journey through the Alps with family
+---
+
 ### Road Trip Overview
 *   **Route:** Northern Turin (Italy) -> Switzerland -> Austria -> Slovenia -> Croatia (Ending near Zagreb)
 *   **Duration:** 10 Days / 9 Nights

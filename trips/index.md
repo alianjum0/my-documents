@@ -33,4 +33,13 @@ This section contains trip itineraries, packing lists, and travel notes.
 <p><em>No trip plans uploaded yet. Check back soon!</em></p>
 {% endif %}
 
-<p><em>To add your own trip plans, create markdown files in this directory.</em></p> 
+<p><em>To add your own trip plans, create markdown files in this directory.</em></p>
+
+## All Trips
+
+- [Alps Road Trip](alps_road_trip.md)
+- [Alps Road Trip V2](alps_road_trip_v2.md)
+- [Alps Road Trip V3](alps_road_trip_v3.md)
+- [Family Adventure Guide](family_adventure_guide.md)
+- [My Road Trip Swiss](my_road_trip_swiss.md)
+- [Paris 2024](paris-2024.md) 
